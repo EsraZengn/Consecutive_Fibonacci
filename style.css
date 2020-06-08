@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+  width: 2em;
+  height: 2em;
+}
+
+@keyframes fadeIt {
+  0% {
+    background-color: #ffffff;
+  }
+  50% {
+    background-color: #fef24e;
+  }
+  100% {
+    background-color: #ffffff;
+  }
+}
+
+.backgroundAnimatedYellow {
+  animation: fadeIt 2s ease-in-out;
+}
+
+@keyframes fadeItGreen {
+  0% {
+    background-color: #ffffff;
+  }
+  50% {
+    background-color: #00ff00;
+  }
+  100% {
+    background-color: #ffffff;
+  }
+}
+
+.greenBackgroundAnimated {
+  animation: fadeItGreen 4s ease-in-out;
+}
