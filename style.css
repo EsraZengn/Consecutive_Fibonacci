@@ -38,6 +38,6 @@ td {
   }
 }
 
-.greenBackgroundAnimated {
+.backgroundAnimatedGreen {
   animation: fadeItGreen 4s ease-in-out;
 }
