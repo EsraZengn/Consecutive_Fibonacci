@@ -6,7 +6,7 @@ Create a 50x50 grid. If you click a cell, all cells in the same row and column g
 
 ## How to run:
 
-You can clone the repository to your local machine and run and test the application by opening index.html in your browser.
+You can clone the repository to your local machine and run/test the application by opening index.html in your browser.
 
 ## Code explanation:
 
