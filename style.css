@@ -39,5 +39,5 @@ td {
 }
 
 .backgroundAnimatedGreen {
-  animation: fadeItGreen 4s ease-in-out;
+  animation: fadeItGreen 2s ease-in-out;
 }
